@@ -1,0 +1,20 @@
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sapper.Form1.resources
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\1\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\obj\Debug\sapper.Form1.resources
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\1\source\repos\сапёр на сдачу\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
